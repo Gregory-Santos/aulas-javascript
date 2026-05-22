@@ -33,4 +33,13 @@ let mensagem = "Fora";
     console.log(mensagem); }
 console.log(mensagem);
 
-console.log(banANa, trezentOS, moToR);
+console.log("banANa, trezentOS, moToR");
+// DESAFIO
+
+let name = "Josué";
+
+const MISSAO = 5;
+
+let status = true;
+
+console.log (name, MISSAO, status);
